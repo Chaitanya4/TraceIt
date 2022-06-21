@@ -3,7 +3,8 @@
 ___
 
 ## Abstract
-**TraceIt** aims to revolutionize **Poultry Market** using Ethereum blockchain which provides transparent, secure data storage and transfer technology with no intermediary. This means that each member can check the validity of the chain. Producers will post data online and stick a QR code to products and consumers will be able to scan that QR code to get all the details about product.
+**TraceIt** aims to revolutionize **Supply Chain to provide better traceability and assurances of authenticity** using  Ethereum blockchain which provide transparent, secure data storage and transfer technology with no intermediary, which means each member can check the validity of the chain . Producers will post data online using forms, then that data will get stored inside QR code using web3 and metamask.  Producer will stick that Qr code to products ,consumers will be able to scan the Qr code and get all the details about product.
+
 
 # How To Setup Our Application
 
@@ -34,20 +35,16 @@ And also Add the account key to the first account that is account[0] with the re
 
 ## 3. Running the Frontend
 
-To run the frontend go to the client folder cd client and type `npm start`
+To run the frontend go to the client folder cd client , run `npm install` and type `npm start`
 This will start a new development server at localhost:3000
 
 ## 4. To setup NODE.JS server
-1. Add `.env` file
-	- Add PORT ,MONGODB_URl,JWT_SECRET
+1. To run the backend go to the backend/src folder cd backend/src
 2. Enter npm install in cmd to download all dependencies
 3. `node index.js` to start the server
 
 
-**Any Doubts regarding Project can be addressed to any of the Contributors**
-Any type of collabration and suggestions are also Welcomed 😁
-
-___
+**Ping in case of any doubt**
 
 ### Project Screenshots
 ![Sign In](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/513/datas/gallery.jpg	)
