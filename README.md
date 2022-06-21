@@ -47,15 +47,14 @@ This will start a new development server at localhost:3000
 **Ping in case of any doubt**
 
 ### Project Screenshots
-![Sign In](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/513/datas/gallery.jpg	)
+![Screenshot from 2022-06-21 18-17-21](https://user-images.githubusercontent.com/31300719/174810947-a48296cf-a9aa-4668-a115-ba9da76f3b29.png)
 
-![Sign Up](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/504/datas/gallery.jpg)
-
-![Get Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/511/datas/gallery.jpg)
-
-![Post Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/510/datas/gallery.jpg)
-
-![Update Details](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/499/515/datas/gallery.jpg)
+![Screenshot from 2022-06-21 18-29-34](https://user-images.githubusercontent.com/31300719/174810680-381fbae3-1d86-44c8-a28e-8a462ce7cda5.png)
+![Screenshot from 2022-06-21 18-29-44](https://user-images.githubusercontent.com/31300719/174810734-34ad01f7-ec9b-4262-aa06-59a795b00e1e.png)
+![Screenshot from 2022-06-21 18-16-18](https://user-images.githubusercontent.com/31300719/174810794-340eb0de-d2b4-4154-8cd7-e370a0f42289.png)
+![Screenshot from 2022-06-21 18-16-33](https://user-images.githubusercontent.com/31300719/174810825-67b52b9c-84ae-4690-9d89-957f3d2879d9.png)
+![Screenshot from 2022-06-21 18-16-39](https://user-images.githubusercontent.com/31300719/174810869-55b02b99-d60a-47bf-84d8-4eeaf8655427.png)
+![Screenshot from 2022-06-21 18-17-12](https://user-images.githubusercontent.com/31300719/174810893-34054702-1141-4eef-8b01-996fd7c81182.png)
 
 
 ---
